@@ -4,7 +4,7 @@ description = "*trace* enables OpenTracing-based tracing of DNS requests as they
 weight = 43
 tags = ["plugin", "trace"]
 categories = ["plugin"]
-date = "2020-10-12T19:32:14.87714810"
+date = "2020-10-28T17:57:04.8774810"
 +++
 
 ## Description
@@ -98,6 +98,6 @@ trace tracinghost:9411 {
 }
 ~~~
 
-## Also See
+## See Also
 
 See the *debug* plugin for more information about debug logging.
